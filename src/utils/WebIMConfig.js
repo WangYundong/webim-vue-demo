@@ -47,11 +47,11 @@ var config = {
      * Application AppKey
      */
     //appkey:"gdpwq123#ceshi",
-    appkey: "easemob-demo#chatdemoui",
+    appkey: "1105200413168992#51lover",
     /*
      * Application Host
      */
-    Host: "easemob.com",
+    Host: "0.0.0.0",
     /*
      * Whether to use HTTPS
      * @parameter {Boolean} true or false
